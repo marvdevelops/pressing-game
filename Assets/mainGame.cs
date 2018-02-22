@@ -41,7 +41,7 @@ public class mainGame : MonoBehaviour {
 			if(totalTime > PlayerPrefs.GetFloat("highScore")){
 				PlayerPrefs.SetFloat("highScore",totalTime);
 
-				PlayerPrefs.SetString("highScoreText",hours.ToString("00")+":"+minutes.ToString("00")+":"+seconds.ToString("00"));
+				PlayerPrefs.SetString("highScoreText","HIGH SCORE "+hours.ToString("00")+":"+minutes.ToString("00")+":"+seconds.ToString("00"));
 			}
 		}
 	}

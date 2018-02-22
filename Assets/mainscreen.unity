@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -248,8 +248,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000066757, y: 400}
-  m_SizeDelta: {x: 88.7, y: 60.6}
+  m_AnchoredPosition: {x: 0.0000066757, y: 440}
+  m_SizeDelta: {x: 112, y: 76.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &359660255
 MonoBehaviour:
@@ -443,8 +443,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076294, y: 195}
-  m_SizeDelta: {x: 158.34, y: 108.27}
+  m_AnchoredPosition: {x: -0.0000076294, y: 181.19998}
+  m_SizeDelta: {x: 199.9, y: 136.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1145244536
 MonoBehaviour:
@@ -582,8 +582,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.4000034, y: 346.2}
-  m_SizeDelta: {x: 270.6, y: 185}
+  m_AnchoredPosition: {x: 6.8, y: 372.09998}
+  m_SizeDelta: {x: 341.7, y: 233.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1448749927
 MonoBehaviour:
@@ -831,7 +831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.4, y: -271}
+  m_AnchoredPosition: {x: 6.8, y: -299.85}
   m_SizeDelta: {x: 504.67, y: 108.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1729289803
@@ -905,8 +905,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000090599, y: 268.7}
-  m_SizeDelta: {x: 412.1, y: 281.8}
+  m_AnchoredPosition: {x: 0.0000090599, y: 274.19998}
+  m_SizeDelta: {x: 520.3, y: 355.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1772119014
 MonoBehaviour:
@@ -964,7 +964,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1927201787
 RectTransform:
   m_ObjectHideFlags: 0
